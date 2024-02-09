@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERvZwz2AHMC4v61twP4ejfC8ETL5I97ye2NlF9utbfEyBGlPelq6J4FDFBmyPx2rjhAIbYPjcAhBPQ0N8UUwaw==",
+  "success": true,
+  "projectFilePath": "c:\\Projetos\\Body Fat Calculator\\src\\Body Fat Calculator\\Body Fat Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laude\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\laude\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\laude\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\laude\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\laude\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\laude\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

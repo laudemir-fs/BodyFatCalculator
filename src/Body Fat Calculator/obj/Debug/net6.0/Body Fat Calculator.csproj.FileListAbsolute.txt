@@ -1,0 +1,27 @@
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\appsettings.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Body Fat Calculator.exe
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Body Fat Calculator.deps.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Body Fat Calculator.runtimeconfig.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Body Fat Calculator.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Body Fat Calculator.pdb
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.csproj.AssemblyReference.cache
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.AssemblyInfoInputs.cache
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.AssemblyInfo.cs
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.csproj.CoreCompileInputs.cache
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\scopedcss\bundle\Body Fat Calculator.styles.css
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.csproj.CopyComplete
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\refint\Body Fat Calculator.dll
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.pdb
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\Body Fat Calculator.genruntimeconfig.cache
+C:\Projetos\Body Fat Calculator\src\Body Fat Calculator\obj\Debug\net6.0\ref\Body Fat Calculator.dll
